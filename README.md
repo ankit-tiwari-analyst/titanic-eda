@@ -37,4 +37,4 @@ python lesson8.py
 
 ## Author
 Ankit Tiwari — Data Analyst in training
-[LinkedIn](www.linkedin.com/in/ankit-tiwari-b9b7473b1) | New Delhi, India
+[LinkedIn](https://www.linkedin.com/in/ankit-tiwari-b9b7473b1) | New Delhi, India
