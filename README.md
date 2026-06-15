@@ -38,3 +38,12 @@ python lesson8.py
 ## Author
 Ankit Tiwari — Data Analyst in training
 [LinkedIn](https://www.linkedin.com/in/ankit-tiwari-b9b7473b1) | New Delhi, India
+
+## Interactive Dashboard
+
+Built an interactive Power BI dashboard on top of this
+EDA — includes KPI cards, cross-filtering slicers,
+and a drill-down passenger table.
+
+![Dashboard Overview](Titanic_Data_Dashboard.png)
+![Passenger Table](Titanic_Data_Overviwe.png)
